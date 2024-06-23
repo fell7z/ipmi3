@@ -1,1 +1,1 @@
-# ipmi3
+# ipmi
